@@ -13,6 +13,7 @@
  <header>
    <h1>Dream Kicks👟</h1>
    <h3>Making sure you are happy with every STEP you take.<h3>
+   <img width="303" alt="image" src="https://user-images.githubusercontent.com/101943680/160324441-318b7e53-61c8-41ef-af63-20547cb72ad1.png">
 
  </header>
 
@@ -37,6 +38,7 @@
  <footer>
    <p>&copy; Copyright 2022. All Rights Reserved.
    </p>
+   
 
  </footer>
 
