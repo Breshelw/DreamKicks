@@ -6,9 +6,12 @@
       Date:03/20/2022
    -->
   <head>
+      <title>My Website</title>
    <meta charset="utf-8">
  </head>
  <body>
+     <h1 style="color: blue">Dream Kicks👟</h1>
+ </body>
 
  <header>
    <h1>Dream Kicks👟</h1>
