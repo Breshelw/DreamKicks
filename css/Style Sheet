@@ -8,12 +8,6 @@ body {
   font-family: 'Comic Sans MS', Comic Sans MS, monospace;
 }
 
-
-/* Removing underline from all the links (anchor tags) on the page */
-a {
-  text-decoration: none;
-}
-
 /* style rules for header begins */
 /* Style rules for Navigation bar begins */
 ul.topnav {
