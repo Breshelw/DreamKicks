@@ -1,54 +1,92 @@
-<!DOCTYPE html>
- <html lang= 'en'>
-   <!--
-      Student Name: Breshel Wilson
-      File Name: index.html
-      Date:03/20/2022
-   -->
-  <head>
-      <style>
-          body {
-              background-color: azure;
-          }
-      </style>
-   <meta charset="utf-8">
- </head>
- <body>
-      <h1>Dream Kicks👟</h1>
- </body>
+/* Your name: Breshel Wilson, Current Date: 04/03/2022), file name: template.css */
 
- <header>
-   <h1>Dream Kicks👟</h1>
-   <h3>Making sure you are happy with every STEP you take.<h3>
-   <img width="303" alt="image" src="https://user-images.githubusercontent.com/101943680/160324441-318b7e53-61c8-41ef-af63-20547cb72ad1.png">
+/* First css rule set that sets background color and margin of web page */
+body {
+  background-color: rgb(127, 255, 212);
+  margin: 0;
+  /* font-family declaration.  Comic Sans MS , monospace are fallback values */
+  font-family: 'Comic Sans MS', Comic Sans MS, monospace;
+}
 
- </header>
 
- <nav>
-   <ul class="topnav">
-   <li><a class="active" href="home">Home</a></li>
-   <li><a href="nike brand"> Nike Brand</a></li>
-   <li><a href="adidas brand"> Adidas Brand</a></li>
-   <li><a href="reviews"> Reviews</a></li>
-   <li><a href="faq"> FAQ</a></li>
-   </ul>
- </nav>
+/* Removing underline from all the links (anchor tags) on the page */
+a {
+  text-decoration: none;
+}
 
-  Hello 👋. My name is Breshel Wilson and I am the creater and owner of Dream Kicks. The purpose of the website is to resell sneakers. 
-     The website is for people just like you that may miss an opportunity of getting those brand new shoes when they came out. I am here to make sure you get that dream shoe on this
-  website and even more.
+/* style rules for header begins */
+/* Style rules for Navigation bar begins */
+ul.topnav {
+  /* Styling the nav element to remove the bullet marker */
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(18, 125, 139);
+}
 
- <main>
-   
- </main>
+ul.topnav li {float: left;}
 
- <footer>
-   <h3>Contact us today for your new pair of Dream Kicks.</h3>
-   <p>Email: <a href=”bwilson034@my.wilmu.edu”>bwilson034@my.wilmu.edu</a></p> 
-   <p>&copy; Copyright 2022. All Rights Reserved.
-   </p>
-   
+ul.topnav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
 
- </footer>
+ul.topnav li a:hover:not(.active) {background-color: #111;}
 
- </html>
+ul.topnav li a.active {background-color: #010301;}
+
+/* media query for making navigation bar responsive */
+@media screen and (max-width: 600px) {
+  ul.topnav li.right, 
+  ul.topnav li {float: none;}
+}
+
+.navtop {
+  font-style: italic;
+}
+
+
+/* style rules for main begins */
+
+main {
+  padding:  0 16px;
+}
+
+/* Rsponsive image */
+img {
+  max-width: 100%;
+  display: block;
+}
+
+/* Class selector rule. Classes selectors start with dot(.) */
+.p1 {
+  font-size: 105%;
+}
+
+/* ID selector rule. id selectors start with # */
+#p2 {
+  color: rgb(200, 59, 15);
+}
+
+
+/* style rule for footer begins */
+
+.footer {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 50px;
+  background-color: rgb(10, 0, 0);
+  color: rgb(220, 20, 60);
+  text-align: center;
+}
+
+.footerlink {
+  color: white;
+}
+Folder structure :
