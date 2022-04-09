@@ -7,7 +7,7 @@
    -->
   <head>
    <meta charset="utf-8">
-   <link rel="stylesheet "herf="css/StyleSheet.css"> 
+   <link rel="StyleSheet" type="text/css" herf="https://github.com/Breshelw/Portfolio-1/blob/37d62c9eadb95ba5a1ae40e02f935b6aa8330fc4/css/StyleSheet.css">
  </head>
  <body>
 
