@@ -7,7 +7,7 @@
    -->
   <head>
    <meta charset="utf-8">
-   <link rel="stylesheet"href="css/StyleSheet.css">
+   <link rel="stylesheet" type="text/css" href="https://legoman8304.github.io/style.css"> 
  </head>
  <body>
 
