@@ -7,7 +7,7 @@
    -->
   <head>
    <meta charset="utf-8">
-   <link rel="Style Sheet"href="css/style sheet.css">
+   <link rel="stylesheet"href="css/stylesheet.css">
  </head>
  <body>
 
