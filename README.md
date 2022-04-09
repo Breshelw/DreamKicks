@@ -7,6 +7,9 @@
    -->
   <head>
    <meta charset="utf-8">
+   <!--meta viewport tag-->
+   <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+   
    <link rel="StyleSheet" type="text/css" herf="https://github.com/Breshelw/Portfolio-1/blob/37d62c9eadb95ba5a1ae40e02f935b6aa8330fc4/css/StyleSheet.css">
  </head>
  <body>
