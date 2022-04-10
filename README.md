@@ -8,6 +8,9 @@
    <head>
    <!-- Meta -->
    <meta charset="UTF-8"/>
+    <title> Dream Kicks</title>
+    <meta name="viewport"
+          content="width=device-width, initial-scale-1">
    
    <!-- Google font-->
    <link href= "http://fonts.googleapis.com/css?family=Rancho&effect=static|3d-float" rel="stylesheet">
