@@ -5,6 +5,7 @@
       Date:03/20/2022
    -->
   <head>
+  
    <meta charset="utf-8">
    <!--meta viewport tag-->
    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
@@ -14,6 +15,7 @@
  <body>
 
  <header>
+   <h1> Dream Kicks👟<h1> 
    <h3>Making sure you are happy with every STEP you take.<h3>
    <img width="303" alt="image" src="https://user-images.githubusercontent.com/101943680/160324441-318b7e53-61c8-41ef-af63-20547cb72ad1.png">
  
@@ -37,8 +39,8 @@
  </main>
 
  <footer>
-   <p>&copy; Copyright 2022. All Rights Reserved.</p>
    <h3>Contact us today for your new pair of Dream Kicks.</h3>
    <p>Email:<a href= 'mailto:bwilson034@my.wilmu.edu'> bwilson034@my.wilmu.edu</a></p>
+   <p>&copy; Copyright 2022. All Rights Reserved.</p>
  </footer>
     
