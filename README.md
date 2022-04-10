@@ -1,4 +1,3 @@
-<!DOCTYPE html>
  <html lang= 'en'>
    <!--
       Student Name: Breshel Wilson
@@ -39,11 +38,9 @@
  </main>
 
  <footer>
+   <p>&copy; Copyright 2022. All Rights Reserved.</p>
    <h3>Contact us today for your new pair of Dream Kicks.</h3>
-   <p>Email: <a href=”bwilson034@my.wilmu.edu”</p> 
-   <p>&copy; Copyright 2022. All Rights Reserved.
-   </p>
-   
-
+   <p>Email:<a href= 'mailto:bwilson034@my.wilmu.edu'> bwilson034@my.wilmu.edu</a></p>
  </footer>
+    
  </html>
