@@ -30,7 +30,7 @@
    <h3>Making sure you are happy with every STEP you take.<h3>
  <nav>
    <ul class="topnav">
-   <li><a class="readme.md" href="home">Home</a></li>
+   <li><a class="home.md" href="home">Home</a></li>
    <li><a href="nikebrand.html"> Nike Brand</a></li>
    <li><a href="adidasbrand.html"> Adidas Brand</a></li>
    <li><a href="contact.html"> Contact</a></li>
