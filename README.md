@@ -16,7 +16,7 @@
    <link rel="stlyesheet">
    
    <!-- Scripts -->
-   <scriot src= "scripts/index.js" defer></script>
+   <scriot src= "scripts/index.js" defer>
    
    <!--meta viewport tag-->
    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
