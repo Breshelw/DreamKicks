@@ -30,7 +30,18 @@ ul.topnav {
   overflow: hidden;
   background-color: rgb(18, 125, 139);
 }
+  /* Desktop Viewport: Style rules for nav area */
+  nav {
+      float: right;
+      width: 70%;
+      margin: 4cm 1cm 0 0;
+  }
 
+  nav ul {
+     text-align: right;
+  }
+
+}
 ul.topnav li {float: left;}
 
 ul.topnav li a {
