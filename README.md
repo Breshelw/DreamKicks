@@ -32,8 +32,8 @@
    <ul class="topnav">
    <li><a class="active" href="home">Home</a></li>
    <li><a href="nikebrand.html"> Nike Brand</a></li>
-   <li><a href="adidas brand"> Adidas Brand</a></li>
-   <li><a href="reviews"> Reviews</a></li>
+   <li><a href="adidasbrand.html"> Adidas Brand</a></li>
+   <li><a href="contact.html"> Contact</a></li>
    <li><a href="faq"> FAQ</a></li>
    </ul>
  </nav>
