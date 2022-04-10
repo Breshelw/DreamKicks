@@ -5,8 +5,7 @@
       Date:03/20/2022
    -->
  
- 
-  <head>
+   <head>
    <!-- Meta -->
    <meta charset="UTF-8"/>
    
@@ -17,13 +16,14 @@
    <link rel="stlyesheet">
    
    <!-- Scripts -->
-   <scriot src= "scripts/index.js" defer> </script>
+   <scriot src= "scripts/index.js" defer></script>
    
    <!--meta viewport tag-->
    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
    <link rel='stylesheet' href='stylesheet.css'>
    
  </head>
+ 
  <body>
 
  <header>
