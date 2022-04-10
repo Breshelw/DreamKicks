@@ -20,6 +20,7 @@ button: visited {
   color: red;
 }
 /* style rules for header begins */
+
 /* Style rules for Navigation bar begins */
 ul.topnav {
   /* Styling the nav element to remove the bullet marker */
@@ -51,7 +52,7 @@ ul.topnav li a.active {background-color: #010301;}
 }
 
 .navtop {
-  font-style: italic;
+  font-style: Cosmic San MS;
 }
 
 
