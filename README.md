@@ -30,7 +30,7 @@
    </ul>
  </nav>
 
-  Hello 👋. My name is Breshel Wilson and I am the creater and owner of Dream Kicks. The purpose of the website is to resell sneakers. 
+  Hello 👋. My name is Breshel Wilson and I am the creator and owner of Dream Kicks. The purpose of the website is to resell sneakers. 
      The website is for people just like you that may miss an opportunity of getting those brand new shoes when they came out. I am here to make sure you get that dream shoe on this
   website and even more.
 
