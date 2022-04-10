@@ -4,9 +4,21 @@
       File Name: index.html
       Date:03/20/2022
    -->
+ 
+ 
   <head>
-  
-   <meta charset="utf-8">
+   <!-- Meta -->
+   <meta charset="UTF-8"/>
+   
+   <!-- Google font-->
+   <link href= "http://fonts.googleapis.com/css?family=Rancho&effect=static|3d-float" rel="stylesheet">
+   
+   <!-- Styles -->
+   <link rel="stlyesheet">
+   
+   <!-- Scripts -->
+   <scriot src= "scripts/index.js" defer> </script>
+   
    <!--meta viewport tag-->
    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
    <link rel='stylesheet' href='stylesheet.css'>
