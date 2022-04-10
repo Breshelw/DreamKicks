@@ -2,7 +2,8 @@
 
 /* First css rule set that sets background color and margin of web page */
 h1{
-  color: blue;
+  font color: blue;
+  font-family: 'Comic Sans MS', Comic Sans Ms, monospace;
 }
 body {
   background-color: rgb(127, 255, 212);
