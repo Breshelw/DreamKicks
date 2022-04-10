@@ -8,8 +8,7 @@
    <head>
    <!-- Meta -->
    <meta charset="UTF-8"/>
-    <title> Dream Kicks</title>
-    <meta name="viewport"
+   <meta name="viewport"
           content="width=device-width, initial-scale-1">
    
    <!-- Google font-->
