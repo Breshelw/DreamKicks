@@ -1,0 +1,54 @@
+<html>
+<head>
+    <title>
+Home Page
+    </title>
+<style type="text/css">
+    body{
+        padding:0%;
+        font-family:Comic Sans MS;
+        font-size: large;
+    }
+    #header{
+        top: 0;
+        left: 0;
+        height:max-content;
+        width:100%;
+        padding: 10px;
+        background-color: #FFB37E;
+    }
+    a{
+        text-decoration: none;
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+#footer{
+    top: 100%;
+    left: 0;
+    height: 100px;
+    width: 100%;
+    background-color: #7EB1FF;
+}
+
+</style>
+</head>
+<body>
+<header id="header">
+        <div id="navigation">
+            <a href="home.md">Home</a>
+            <a href="nike.html">Nike Brand</a>
+            <a href="adidas.html">Adidas Brand</a>
+            <a href="contact.html">Contact</a>
+            <a href="faq.html">FAQ</a>
+    </div>
+</header>
+<div id="content">
+   
+
+<footer 
+        id="footer">
+    
+</footer>
+
+</body>
+</html>
