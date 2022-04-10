@@ -25,7 +25,6 @@
  <body>
 
  <header>
-   <h1> Dream Kicks👟<h1> 
    <h3>Making sure you are happy with every STEP you take.<h3>
  <nav>
    <ul class="topnav">
