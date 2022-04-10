@@ -11,18 +11,6 @@ body {
   /* font-family declaration.  Comic Sans MS , monospace are fallback values */
   font-family: 'Comic Sans MS', Comic Sans MS, monospace;
 }
-/*Desktop viewport: style rules for nav area*/
-nav (
-    float: right;
-    width: 70%;
-    margin: 4em 1em 0 0;
-}
-
-  nav ul {
-   text-align: right;
-  }
-
-}
 /*Any button over which the user's pointer is hovering*/
 button: hover {
   color: orange;
