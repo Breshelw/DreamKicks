@@ -9,7 +9,7 @@
    <meta charset="utf-8">
    <!--meta viewport tag-->
    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-   <link rel='stylesheet' href='stylesheet.css' type='text/'>
+   <link rel='stylesheet' href='stylesheet.css'>
    
  </head>
  <body>
