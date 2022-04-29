@@ -1,6 +1,11 @@
 /* Your name: Breshel Wilson, Current Date: 04/03/2022), file name: template.css */
 
 /* First css rule set that sets background color and margin of web page */
+
+<meta charset="UTF-8">
+<!--meta viewport tag-->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
 h1{
   font color: blue;
   font-family: 'Comic Sans MS', Comic Sans Ms, monospace;
